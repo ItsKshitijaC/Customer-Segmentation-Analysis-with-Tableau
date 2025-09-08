@@ -13,6 +13,7 @@
 SpicyFood is a fictional FoodTech Company. 
 
 The company’s management wanted to gain deeper insights into customer behavior, purchasing patterns, and overall value contribution. Specifically, they were interested in:
+
 - Identifying their most valuable customers.
 - Understanding customer demographics such as age and gender.
 - Segmenting customers based on recency, frequency, and monetary value.
@@ -67,11 +68,6 @@ The dataset used for this analysis includes the following fields:
 12. **Age:** Age of the customer.
 
 ## Dashboard Preview
-The final Tableau dashboard provides an interactive and visually compelling representation of key insights, enabling SpicyFood management to:
-- Identify and target high-value customers.
-- Re-engage at-risk customers to minimize churn.
-- Strengthen retention strategies for long-term customer loyalty.
-- Optimize marketing campaigns for better engagement and ROI.
 
 <img width="1850" height="768" alt="Dashboard" src="https://github.com/user-attachments/assets/ea3a22ac-5d83-4b54-bc82-28bcf122e550" />
 
